@@ -1,8 +1,6 @@
-# Whatsapp-Web-spammer-extension
+# Whatsapp-Web-spammer-extension V.2
 Whatsapp web spammer Extension can be used in Google Chrome, Brave, and many for sending texts repeteadly after desired time interval
 
-# Whatsapp-Web-Spammer
-Whatsapp web spammer Extension used in Google Chrome, Brave, and many more via Tampermonkey extension or can be used via injecting it in console through developer tool.
 
 ![Spammer](https://user-images.githubusercontent.com/82725802/119984793-6e0ead80-bfdf-11eb-9732-cfba86981197.png)
 
